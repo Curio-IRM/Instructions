@@ -1,57 +1,29 @@
-# Docus Starter
+# Kleiner Perkins Fellows Website
 
-Starter template for [Docus](https://docus.dev).
+Welcome to the Kleiner Perkins Fellows Website! This website serves as a comprehensive resource for the Kleiner Perkins Fellows Program, providing information about the program's history, application process, events, and more. In addition, we have integrated a chatbot feature to assist you with any questions you may have. Let's explore what you can find on this website:
 
-## Clone
+## Sections
 
-Clone the repository (using `nuxi`):
+1. **History**: Learn about the rich history of the Kleiner Perkins Fellows Program. Discover how it has evolved over the years and the impact it has made on the careers of talented individuals in engineering, design, and product management.
 
-```bash
-npx nuxi init -t themes/docus
-```
+2. **Application Process**: Find detailed information about the application process, including eligibility criteria, application dates, and interview and selection procedures. We provide guidance on how to submit a strong application and increase your chances of becoming a Kleiner Perkins Fellow.
 
-## Setup
+3. **Application Questions**: Get insights into the types of questions you can expect in the application. We provide examples and tips to help you prepare and showcase your skills, experience, and passion effectively.
 
-Install dependencies:
+4. **Events**: Stay up to date with the latest events organized by Kleiner Perkins and the Fellows Program. From networking sessions to guest speaker events, these gatherings offer valuable opportunities to connect with industry professionals and fellow program participants.
 
-```bash
-yarn install
-```
+5. **FAQs**: Access a comprehensive list of frequently asked questions about the Kleiner Perkins Fellows Program. We cover various topics, including compensation, program duration, company selection, and more. If you can't find the answer to your question, our integrated chatbot is ready to assist you.
 
-## Development
+6. **Chatbot**: Interact with our integrated chatbot feature to get real-time assistance. Whether you have questions about the application process, eligibility, or any other aspect of the program, the chatbot is designed to provide helpful information and support.
 
-```bash
-yarn dev
-```
+## Contact and Support
 
-## Edge Side Rendering
+If you have specific inquiries or need further assistance, you can reach out to our support team through the provided contact information. We are here to help you navigate the Kleiner Perkins Fellows Program and ensure you have a smooth and successful experience.
 
-Can be deployed to Vercel Functions, Netlify Functions, AWS, and most Node-compatible environments.
+## License
 
-Look at all the available presets [here](https://v3.nuxtjs.org/guide/deploy/presets).
+The Kleiner Perkins Fellows Website is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to explore, contribute, and build upon the resources provided on this website.
 
-```bash
-yarn build
-```
+Thank you for visiting the Kleiner Perkins Fellows Website. We hope you find the information and resources valuable as you embark on your journey to become a Kleiner Perkins Fellow.
 
-## Static Generation
-
-Use the `generate` command to build your application.
-
-The HTML files will be generated in the .output/public directory and ready to be deployed to any static compatible hosting.
-
-```bash
-yarn generate
-```
-
-## Preview build
-
-You might want to preview the result of your build locally, to do so, run the following command:
-
-```bash
-yarn preview
-```
-
----
-
-For a detailed explanation of how things work, check out [Docus](https://docus.dev).
+© 2023 Kleiner Perkins Fellows
