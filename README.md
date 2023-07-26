@@ -2,8 +2,6 @@
 
 Welcome to the Kleiner Perkins Fellows Website! This website serves as a comprehensive resource for the Kleiner Perkins Fellows Program, providing information about the program's history, application process, events, and more. In addition, we have integrated a chatbot feature to assist you with any questions you may have. Let's explore what you can find on this website:
 
-# KP Fellows Profiles Generator
-
 This repository contains the profiles of Kleiner Perkins fellows generated from LinkedIn data. 
 
 ## Structure
