@@ -1,6 +1,6 @@
-# Kleiner Perkins Fellows Website
+# Curio Database
 
-Welcome to the Kleiner Perkins Fellows Website! This website provides individualized profiles for all the Kleiner Perkins Fellows, generated from LinkedIn data. It serves as a comprehensive resource about the program's history, application process, events, and more. We have also integrated a chatbot feature to assist with any questions.
+Welcome to the Kleiner Perkins Fellows Website prepared by Curio! This website provides individualized profiles for all the Kleiner Perkins Fellows, generated from LinkedIn data. It serves as a comprehensive resource about the program's history, application process, events, and more. We have also integrated a chatbot feature to assist with any questions.
 
 ## Project Structure
 
