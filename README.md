@@ -8,7 +8,7 @@ This repository contains the profiles of Kleiner Perkins fellows generated from 
 
 The main components of the project are as follows:
 
-- `docs`: Contains several configuration files and the `public` directory, which might contain static assets for a web project.
+- `docs`: Contains several configuration files and the `public` directory, which contains static assets for a web project.
 - `components`: Contains Vue.js components used in the project. Currently, it includes a 'Logo.vue' file.
 
 ## How to Use
