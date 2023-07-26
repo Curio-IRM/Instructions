@@ -2,6 +2,42 @@
 
 Welcome to the Kleiner Perkins Fellows Website! This website serves as a comprehensive resource for the Kleiner Perkins Fellows Program, providing information about the program's history, application process, events, and more. In addition, we have integrated a chatbot feature to assist you with any questions you may have. Let's explore what you can find on this website:
 
+# KP Fellows Profiles Generator
+
+This repository contains the profiles of Kleiner Perkins fellows generated from LinkedIn data. 
+
+## Structure
+
+The main components of the project are as follows:
+
+- `docs`: Contains several configuration files and the `public` directory, which might contain static assets for a web project.
+- `components`: Contains Vue.js components used in the project. Currently, it includes a 'Logo.vue' file.
+
+## How to Use
+
+### Prerequisites
+
+- Node.js and npm installed on your machine
+- Basic knowledge of Vue.js (for understanding the `components` directory)
+
+### Steps
+
+1. Clone this repository to your local machine.
+2. Navigate to the project directory in your terminal.
+3. Run `npm install` to install the necessary dependencies.
+4. Use `npm run serve` to start the development server.
+
+Please modify these instructions based on the actual function and requirements of your project.
+
+## Contributing
+
+Contributions are welcome! Please read the contributing guidelines before starting.
+
+## License
+
+This project is licensed under the terms of the MIT license.
+
+
 ## Sections
 
 1. **History**: Learn about the rich history of the Kleiner Perkins Fellows Program. Discover how it has evolved over the years and the impact it has made on the careers of talented individuals in engineering, design, and product management.
