@@ -21,8 +21,8 @@ Welcome to the Kleiner Perkins Fellows Website prepared by Curio! This website p
 
 1. Clone this repository to your local machine.
 2. Navigate to the project directory in your terminal.
-3. Run `npm install` to install the necessary dependencies.
-4. Use `npm run serve` to start the development server.
+3. Run `yarn install` to install the necessary dependencies.
+4. Use `yarn dev` to start the local host.
 
 ## Features
 
