@@ -27,15 +27,6 @@ The main components of the project are as follows:
 
 Please modify these instructions based on the actual function and requirements of your project.
 
-## Contributing
-
-Contributions are welcome! Please read the contributing guidelines before starting.
-
-## License
-
-This project is licensed under the terms of the MIT license.
-
-
 ## Sections
 
 1. **History**: Learn about the rich history of the Kleiner Perkins Fellows Program. Discover how it has evolved over the years and the impact it has made on the careers of talented individuals in engineering, design, and product management.
